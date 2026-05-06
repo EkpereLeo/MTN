@@ -5,6 +5,8 @@
 
 This project provides a comprehensive analysis of MTN’s Q1 performance, focusing on revenue drivers, subscription trends, device contributions, and customer churn dynamics. By segmenting customers into subscription tiers and analyzing geographic churn density, this dashboard identifies key areas for service improvement and revenue optimization.
 
+[Click this text to watch video analysis breake down](https://drive.google.com/file/d/1P24ZxNpgDeffwj1GkfY_LDMvpcVPxM04/view?usp=sharing)
+
 ## 🛠️ Skills & Competencies Demonstrated
 ### Technical Data Analysis:g
 **Data Modeling & Transformation:** Organized raw datasets from Kaggle into structured tables suitable for complex analysis.  
