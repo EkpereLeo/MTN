@@ -7,6 +7,11 @@ This project provides a comprehensive analysis of MTN’s Q1 performance, focusi
 
 [Click this text to watch video analysis breake down](https://drive.google.com/file/d/1P24ZxNpgDeffwj1GkfY_LDMvpcVPxM04/view?usp=sharing)
 
+## Questions asked
+- Market & Product Performance
+- Customer Retention & Churn Diagnostics
+- Hardware & Regional Insights
+
 ## 🛠️ Skills & Competencies Demonstrated
 ### Technical Data Analysis:g
 **Data Modeling & Transformation:** Organized raw datasets from Kaggle into structured tables suitable for complex analysis.  
